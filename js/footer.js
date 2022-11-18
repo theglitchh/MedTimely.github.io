@@ -30,7 +30,6 @@ const createFooter = () => {
                 <p class="info">MedTimely is a delivery based network based on Tripura, India. we provide fastest medicine delivery at your doorsteps with little to no hustle, the medicine you require , we deliver</p>
                 <p class="info"> Support emails : medtimely@pm.me,
                     customersupport@medtimely.me</p>
-                <p class="info">Contact us : +919366855940</p>
                 <div class="footer-social-container">
                     <div>
                         <a href="#" class="social-link" > terms & services </a>
